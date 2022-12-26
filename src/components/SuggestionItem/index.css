@@ -1,0 +1,16 @@
+.para {
+  margin-left: 12px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.SuggestionItem {
+  display: flex;
+  justify-content: space-between;
+}
+.arrowsty {
+  width: 23%;
+}
+.buttonstty {
+  background-color: white;
+  border-style: none;
+}
